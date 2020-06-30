@@ -1,0 +1,22 @@
+.result-data{
+   
+    border-bottom: 1px solid #000;
+}
+
+
+.candid-results{
+    width:600px;
+    height:40px;
+    border-bottom:1px solid #000;
+    margin-bottom: 10px;
+}
+
+.candid-results a{
+    font-size:20px;
+}
+
+
+.candid-results .amount{
+    float:right;
+}
+
